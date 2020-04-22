@@ -1,0 +1,2 @@
+run index ->> node index
+run index.test ->> npm test
